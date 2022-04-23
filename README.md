@@ -5,9 +5,9 @@ More information about the competition can be found on the official page of the
 [IBM Quantum Awards: Open Science Prize](https://ibmquantumawards.bemyapp.com)
 
 Please take a look at the [presentation of my solution](https://ibmquantumawards.bemyapp.com/#/projects/62407e9354879f003163ca9d) (full presentation, but on the IBM website, the presentation is not public right now) 
-or look at the file ["Presentation_solution.pdf"](/Presentation_solution.pdf) for a shortened version of the presentation. If you are interested in mathematics, take a look at the file "Math_description.pdf" where you will find the mathematical derivation of my solution.
+or look at the file ["Presentation_solution.pdf"](/Presentation_solution.pdf) for a shortened version of the presentation. If you are interested in mathematics, take a look at the file ["Math_description.pdf"](/Math_description.pdf) where you will find the mathematical derivation of my solution.
 
-The solution is a part of the jupyter notebook "ibmq-qsim-challenge_with_my_solution.ipynb". Feel free to use it.
+The solution is a part of the jupyter notebook ["ibmq-qsim-challenge_with_my_solution.ipynb"](/ibmq-qsim-challenge_with_my_solution.ipynb). Feel free to use it.
 
 For more information, I would be happy to answer your questions.
 Feel free to contact me on the [Linkedin](https://www.linkedin.com/in/vojtasysel/)
